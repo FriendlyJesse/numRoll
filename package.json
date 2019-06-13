@@ -1,7 +1,7 @@
 {
   "name": "numroll",
   "version": "1.0.0",
-  "description": "utils",
+  "description": "components",
   "main": "numRoll.vue",
   "scripts": {},
   "repository": {
