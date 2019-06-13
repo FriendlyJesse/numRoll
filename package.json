@@ -1,0 +1,24 @@
+{
+  "name": "numroll",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "numRoll.vue",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriendlyJesse/numRoll.git"
+  },
+  "keywords": [
+    "numroll",
+    "numchange",
+    "number",
+    "Number"
+  ],
+  "author": "jesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FriendlyJesse/numRoll/issues"
+  },
+  "homepage": "https://github.com/FriendlyJesse/numRoll#readme",
+  "devDependencies": {}
+}
